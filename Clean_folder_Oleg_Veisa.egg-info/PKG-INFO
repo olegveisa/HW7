@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: Clean-folder-Oleg-Veisa
+Version: 0.0.2
+Summary: Script for sorting files and clear folder
+Home-page: https://github.com/olegveisa/HW7
+Author: Oleg Veisa
+Author-email: oleg.veisa@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

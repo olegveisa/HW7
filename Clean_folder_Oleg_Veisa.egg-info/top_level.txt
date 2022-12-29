@@ -1,0 +1,3 @@
+clean_folder_olegveisa
+dist
+myenv
